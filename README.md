@@ -10,4 +10,4 @@
    * Desafio 6: Desafio REST API <br>
    * Desafio 7: Desafio ORM Queries <br>
    * Desafio 8: Desafio RESTful API Modeling Language (RAML) <br>    
-
+   * Desafio 9: Desafio Continuous integration <br> 
