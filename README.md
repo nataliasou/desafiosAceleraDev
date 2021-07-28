@@ -1,6 +1,6 @@
 # Desafios feitos na aceleração Python da Codenation
 
-<h2>Os desafios foram feitos durante o curso são:</h2>
+<h2>Os desafios que foram feitos durante o curso são:</h2>
 
    * Desafio 1: Desafio programação funcional <br>
    * Desafio 2: Desafio de programação orientada a objetos <br>
